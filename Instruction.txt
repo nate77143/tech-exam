@@ -1,0 +1,5 @@
+Tools used:
+VS2019
+.NET CORE 3.1
+
+swagger implemented, just run the solution and start testing.

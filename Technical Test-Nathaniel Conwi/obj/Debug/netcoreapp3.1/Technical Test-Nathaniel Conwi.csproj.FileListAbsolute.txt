@@ -1,0 +1,27 @@
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.AssemblyInfo.cs
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.exe
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.deps.json
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.runtimeconfig.json
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.pdb
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\staticwebassets\Technical Test-Nathaniel Conwi.StaticWebAssets.Manifest.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\staticwebassets\Technical Test-Nathaniel Conwi.StaticWebAssets.xml
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\scopedcss\bundle\Technical Test-Nathaniel Conwi.styles.css
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.pdb
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.genruntimeconfig.cache
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\Technical Test-Nathaniel Conwi\Technical Test-Nathaniel Conwi\obj\Debug\netcoreapp3.1\Technical Test-Nathaniel Conwi.csproj.CopyComplete
